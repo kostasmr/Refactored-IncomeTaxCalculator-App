@@ -1,5 +1,5 @@
 # Refactored-IncomeTaxCalculator-App
-Refactor an application which manage Taxpayer data and displays some charts of tapayer's taxes.
+Refactoring an application which manage Taxpayer data and displays some charts of tapayer's taxes.
 
 The goal of this project is to reengineer a Java application.
 First of all, we fixed some problems as mentioned in the 'SoftDevII-Project-2023-Backlog.pdf'.
